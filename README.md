@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131579767-e58cab5f-72c9-4db6-bb73-54c8d36a97c6.png" alt="background-generator"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de créer un générateur de fond d'écran, capable de modifier la couleur de celui-ci.</p>
 
 <h2 align=center>📝 Description :</h2>
 
