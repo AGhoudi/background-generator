@@ -20,4 +20,4 @@ Cela a été mis en place via des boutons permettant de changer la couleur.</br>
 
 <p align=center>Voici un lien pour tester le jeu:
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+  <a title="https://aghoudi.github.io/background-generator/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/background-generator/">https://aghoudi.github.io/background-generator/</a></p>
