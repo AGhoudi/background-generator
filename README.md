@@ -14,10 +14,10 @@ Cela a été mis en place via des boutons permettant de changer la couleur.</br>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - JAVASCRIPT</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester l'application:
 
   <a title="https://aghoudi.github.io/background-generator/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/background-generator/">https://aghoudi.github.io/background-generator/</a></p>
